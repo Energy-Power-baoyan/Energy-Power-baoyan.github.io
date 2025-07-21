@@ -1041,14 +1041,14 @@ pre .javascript .function {
   display: block;
 }
 .menu {
-  margin-top: 20px;
+  margin-top: 50px;
   padding-left: 0;
   text-align: center;
 }
 .menu-item {
   display: inline-block;
   list-style: none;
-  margin: 0 10px;
+  margin: 0 50px;
 }
 @media (max-width: 767px) {
   .menu-item {
