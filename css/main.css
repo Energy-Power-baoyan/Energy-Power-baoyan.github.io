@@ -1063,7 +1063,7 @@ pre .javascript .function {
 .menu-item span.exturl {
   border-bottom: 0;
   display: block;
-  font-size: 0.8125em;
+  font-size: 1.5em;
   transition-property: border-color;
   transition-delay: 0s;
   transition-duration: 0.2s;
