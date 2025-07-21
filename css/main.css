@@ -1558,7 +1558,7 @@ pre .javascript .function {
   }
 }
 .post-body .exturl .fa {
-  font-size: 0.875em;
+  font-size: 1.5em;
   margin-left: 4px;
 }
 .post-body .image-caption,
@@ -1900,7 +1900,7 @@ pre .javascript .function {
   top: 2px;
 }
 .post-nav-item .fa {
-  font-size: 0.75em;
+  font-size: 1.5em;
 }
 .post-nav-item:first-child {
   margin-right: 15px;
