@@ -11,7 +11,7 @@
   --table-row-odd-bg-color: #f9f9f9;
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
-  --btn-default-bg: #222;
+  --btn-default-bg: #4682B4;
   --btn-default-color: #fff;
   --btn-default-border-color: #222;
   --btn-default-hover-bg: #fff;
@@ -199,7 +199,7 @@ h6 {
   margin: 20px 0 15px;
 }
 h1 {
-  font-size: 1.5em;
+  font-size: 2.0em;
 }
 h2 {
   font-size: 1.375em;
@@ -986,7 +986,7 @@ pre .javascript .function {
 }
 .site-title {
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1.375em;
+  font-size: 3.0em;
   font-weight: normal;
   margin: 0;
 }
